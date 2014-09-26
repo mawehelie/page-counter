@@ -1,1 +1,2 @@
-#h1 
+#Simple Page Counter
+##In PHP
