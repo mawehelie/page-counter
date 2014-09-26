@@ -3,4 +3,4 @@
 
 
 
-![alt text][(https://github.com/mawehelie/page-counter/raw/master/img/1.png]
+![alt text](https://github.com/mawehelie/page-counter/raw/master/img/1.png)
