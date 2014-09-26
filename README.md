@@ -3,4 +3,4 @@
 
 
 
-![alt text][https://github.com/mawehelie/page-counter/blob/master/img/ch4s4.gif]
+![alt text][https://github.com/mawehelie/page-counter/blob/master/img/1.png]
