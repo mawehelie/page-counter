@@ -16,13 +16,13 @@ $_SESSION['counter'] = $_SESSION['counter']+1;
 <body>
 	<div>
 	<h1>YOU VISITED THIS SITE</h1>
-<!-- Calling GLOBAL variable from PHP code -->
-<h2><?=$_SESSION['counter']?></h2>
+        <!-- Calling GLOBAL variable from PHP code -->
+        <h2><?=$_SESSION['counter']?></h2>
 
-	<h1>TIMES</h1>
+	        <h1>TIMES</h1>
 
 		<form action="process.php">
-			<input type="submit" name="reset" value="Reset">
+		    <input type="submit" name="reset" value="Reset">
 		</form>
 	</div>
 </body>
