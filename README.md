@@ -1,5 +1,5 @@
 #Simple Page Counter
-##Implemented in PHP
+-> ##Implemented in PHP <-
 
 
 
